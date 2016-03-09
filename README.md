@@ -1,5 +1,5 @@
 # 3dmodels
-My 3d models (blend files, freecad files, etc.)
+My binary encoded or otherwise hand-maded (instead of coded) 3d models (blend files, freecad files, etc.)
 
 ## Notes about some of the designs here
 (OBS.: the Apache license is the default license
