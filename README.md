@@ -18,7 +18,7 @@ might have different licenses, as indicated below)
 * It is also on thingiverse, http://www.thingiverse.com/thing:1387980
 
 ### the "without-the-board" files and the -lid.stl and -case.stl files:
-* They were modelled as a service to Toradex Brasil, they let me make them available onlien with a free license.
+* They were modelled as a service to Toradex Brasil, they let me make them available online with a free license.
 * Their license is CC-BY.
 * They are on thingiverse:
  * Ixora http://www.thingiverse.com/thing:1903249
