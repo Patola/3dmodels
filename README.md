@@ -16,3 +16,15 @@ might have different licenses, as indicated below)
 * Its license is CC-BY (which means: use it as you see fit, but you have to give credits)
 * It is also on youmagine, https://www.youmagine.com/designs/toradex-iris-case-enclosure
 * It is also on thingiverse, http://www.thingiverse.com/thing:1387980
+
+### the "without-the-board" files and the -lid.stl and -case.stl files:
+* They were modelled as a service to Toradex Brasil, they let me make them available onlien with a free license.
+* Their license is CC-BY.
+* They are on thingiverse:
+ * Ixora http://www.thingiverse.com/thing:1903249
+ * Iris http://www.thingiverse.com/thing:1904543
+ * Viola Plus http://www.thingiverse.com/thing:1904553
+* They are on youmagine:
+ * Ixora https://www.youmagine.com/designs/toradex-ixora-case
+ * Iris https://www.youmagine.com/designs/toradex-iris-case
+ * Viola Plus https://www.youmagine.com/designs/toradex-viola-plus-case
