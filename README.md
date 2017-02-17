@@ -17,14 +17,27 @@ might have different licenses, as indicated below)
 * It is also on youmagine, https://www.youmagine.com/designs/toradex-iris-case-enclosure
 * It is also on thingiverse, http://www.thingiverse.com/thing:1387980
 
-### the "without-the-board" files and the -lid.stl and -case.stl files:
+### stand-ipe-viola-*:
+* CC-BY
+* thingiverse: http://www.thingiverse.com/thing:2116518
+* youmagine: https://www.youmagine.com/designs/toradex-viola-ipe-stackable-stand-support
+
+### the "without-the-board" files and the -lid.stl and -case.stl / -body.stl files and their respective .fcstd files:
 * They were modelled as a service to Toradex Brasil, they let me make them available online with a free license.
 * Their license is CC-BY.
-* They are on thingiverse:
+* They are on thingiverse. Version 2 (newer):
+ * Viola - http://www.thingiverse.com/thing:2112713
+ * Iris - http://www.thingiverse.com/thing:2112819
+ * Ixora - http://www.thingiverse.com/thing:2112928
+* They are on youmagine. Version 2 (newer)
+ * Viola - https://www.youmagine.com/designs/toradex-viola-plus-case-v2-0
+ * Iris - https://www.youmagine.com/designs/toradex-iris-case-v2-0
+ * Ixora - https://www.youmagine.com/designs/toradex-ixora-case-v2-0
+* Thingiverse - version 1 (older):
  * Ixora http://www.thingiverse.com/thing:1903249
  * Iris http://www.thingiverse.com/thing:1904543
  * Viola Plus http://www.thingiverse.com/thing:1904553
-* They are on youmagine:
+* Youmagine - version 1 (older):
  * Ixora https://www.youmagine.com/designs/toradex-ixora-case
  * Iris https://www.youmagine.com/designs/toradex-iris-case
  * Viola Plus https://www.youmagine.com/designs/toradex-viola-plus-case
